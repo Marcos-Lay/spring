@@ -9,9 +9,11 @@
         <module name="spring_rabbitMQ" />
         <module name="spring_mybatis" />
         <module name="spring_aop" />
+        <module name="spring_context" />
         <module name="spring_mongo" />
         <module name="spring_httpClient" />
         <module name="spring_web" />
+        <module name="spring_core" />
         <module name="spring_ioc" />
         <module name="spring_redis" />
       </profile>
