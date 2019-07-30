@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring_httpClient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_mongo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_rabbitMQ" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring_redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_web" charset="UTF-8" />
   </component>
 </project>

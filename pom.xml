@@ -14,6 +14,9 @@
         <module>spring_rabbitMQ</module>
         <module>spring_mongo</module>
         <module>spring_httpClient</module>
+        <module>spring_ioc</module>
+        <module>spring_aop</module>
+        <module>spring_web</module>
     </modules>
 
 
